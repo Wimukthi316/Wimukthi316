@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wimukthi Gunarathna</h1>
-<h3 align="center">A passionate DevOps Engineer from Sri Lanka</h3>
+<h3 align="center">A passionate Mobile Application Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wimukthi316&label=Profile%20views&color=0e75b6&style=flat" alt="wimukthi316" /> </p>
 
