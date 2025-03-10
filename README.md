@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wimukthi316&label=Profile%20views&color=0e75b6&style=flat" alt="wimukthi316" /> </p>
 
-- 🔭 I’m currently working on **ITP Project**
+- 🔭 I’m currently working on **Clound Computing**
 
 - 👨🏻‍🎓 I’m an Undergraduate at **SLIIT**
 
