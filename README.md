@@ -69,10 +69,21 @@
 
 ## 🌐 Connect with Me
 
-- Portfolio: [wimukthiportfolio.netlify.app](https://wimukthiportfolio.netlify.app/)
-- LinkedIn: [Wimukthi Gunarathna](https://www.linkedin.com/in/wimukthi-gunarathna-40b452259/)
-- GitHub: [Wimukthi316](https://github.com/Wimukthi316)
-- Email: [wimukthi316@gmail.com](mailto:wimukthi316@gmail.com)
+<p align="left">
+  <a href="https://wimukthiportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wimukthi-gunarathna-40b452259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Wimukthi316" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:wimukthi316@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
 
 ## 📈 GitHub Stats
 
