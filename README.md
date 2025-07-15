@@ -1,59 +1,63 @@
-<h1 align="center">Hi 👋, I'm Wimukthi Gunarathna</h1>
-<h3 align="center">A passionate Mobile Application Developer from Sri Lanka</h3>
+# 👋 Hi there, I'm Wimukthi Gunarathna
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wimukthi316&label=Profile%20views&color=0e75b6&style=flat" alt="wimukthi316" /> </p>
-
-- 👨🏻‍🎓 I’m an Undergraduate at **SLIIT**
-
-- 🌱 I’m currently learning **Java, Python, Azure, Aws**
-
-- 📫 How to reach me **wimukthi316@gmai.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@wimukthi316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@wimukthi316" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wimukthi-gunarathna-40b452259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wimukthi-gunarathna-40b452259" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Data+Science+Undergraduate;Full-Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+## 🚀 About Me
+
+🎓 I'm a **Data Science undergraduate** at SLIIT, passionate about solving real-world problems using **data analysis**, **full-stack development**, and **machine learning**.
+
+💻 I love building **scalable and user-centric applications**, learning modern technologies, and contributing to open-source projects.
+
+🌱 Currently learning:
+- Advanced Machine Learning
+- DevOps tools and CI/CD pipelines
+- Cloud Computing (AWS)
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript, C++, C#, Kotlin  
+**Frontend:** React.js, Next.js, Vue.js, Tailwind CSS, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Mobile:** Kotlin (Android)  
+**Database:** MongoDB, MySQL, MS SQL Server  
+**Tools:** Git & GitHub, Firebase, Figma, CI/CD  
+**Other:** RESTful APIs, Agile & Scrum methodologies
+
+## 📚 Certifications
+
+- 🏆 Oracle MySQL HeatWave Implementation Associate (1Z0-915-1)
+- 🏆 MySQL Implementation Associate (1Z0-922)
+- ☁️ AWS Educate Introduction to Cloud 101
+- ☁️ AWS Educate Getting Started with Storage
+
+## 💼 Projects
+
+| Project | Description | Tech Stack |
+| --- | --- | --- |
+| [FEMMEFIT](https://femmefitclothing.netlify.app/) | Responsive women's clothing website focused on UX/UI design. | React.js, Tailwind CSS |
+| [Pet Care](https://github.com/Wimukthi316/Pet-Care.git) | MERN stack online veterinary appointment system for pet owners. | MongoDB, Express.js, React.js, Node.js |
+| [EduStream](https://github.com/Wimukthi316/EduStream.git) | Course management system with Vue.js 3, TypeScript, Pinia. | Vue.js, TypeScript |
+| [SmartCents](https://github.com/Wimukthi316/SmartCents.git) | Budget planning mobile application for managing goals and expenses. | Kotlin |
+
+## 🌐 Connect with Me
+
+- Portfolio: [wimukthiportfolio.netlify.app](https://wimukthiportfolio.netlify.app/)
+- LinkedIn: [Wimukthi Gunarathna](https://www.linkedin.com/in/wimukthi-gunarathna-40b452259/)
+- GitHub: [Wimukthi316](https://github.com/Wimukthi316)
+- Email: [wimukthi316@gmail.com](mailto:wimukthi316@gmail.com)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wimukthi316&show_icons=true&theme=radical" alt="Wimukthi's GitHub stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wimukthi316&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+⭐️ **Thank you for visiting my profile! Let's connect and build amazing things together.**
